@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/animal-sniffer-annotations-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/annotations-4.1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/api-common-1.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/auto-value-annotations-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/conscrypt-openjdk-uber-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/gax-1.58.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/gax-grpc-1.58.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/google-auth-library-credentials-0.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/google-auth-library-oauth2-http-0.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/google-cloud-vision-1.100.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/google-http-client-1.36.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/google-http-client-jackson2-1.36.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-alts-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-api-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-auth-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-context-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-core-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-grpclb-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-netty-shaded-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-protobuf-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-protobuf-lite-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/grpc-stub-1.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/guava-29.0-android.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/httpclient-4.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/opencensus-api-0.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/opencensus-contrib-http-util-0.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/perfmark-api-0.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/protobuf-java-3.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/protobuf-java-util-3.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/proto-google-cloud-vision-v1-1.100.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/proto-google-cloud-vision-v1p1beta1-0.83.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/proto-google-cloud-vision-v1p2beta1-1.100.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/proto-google-cloud-vision-v1p3beta1-0.83.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/proto-google-cloud-vision-v1p4beta1-0.83.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/proto-google-common-protos-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/jar_files/threetenbp-1.4.4.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
